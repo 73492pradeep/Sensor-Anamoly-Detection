@@ -1,1 +1,1 @@
-# Sensor-Anamoly-Detection
+# Sensor-Anomaly-Detection
